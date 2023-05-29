@@ -42,3 +42,8 @@ A new Flutter project.
 24.  smooth_page_indicator: ^1.1.0
 25.  get_it: ^7.2.0
  
+ 
+ 
+ # images
+<img src="https://github.com/QassemAbied/task_manager/blob/master/1685375701558_100.PNG" width="260" height="400" />  <img src="https://github.com/QassemAbied/task_manager/blob/master/1685375715560_100.PNG" width="260" height="400" /><img src="https://github.com/QassemAbied/task_manager/blob/master/1685375731344_100.PNG" width="260" height="400" />  <img src="https://github.com/QassemAbied/task_manager/blob/master/1685375750539_100.PNG" width="260" height="400" />
+
